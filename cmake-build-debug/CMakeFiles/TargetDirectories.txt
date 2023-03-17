@@ -1,0 +1,3 @@
+D:/mutate din c/hotelmanagement(C++_/cmake-build-debug/CMakeFiles/hotelmanagement_C___.dir
+D:/mutate din c/hotelmanagement(C++_/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/mutate din c/hotelmanagement(C++_/cmake-build-debug/CMakeFiles/rebuild_cache.dir
